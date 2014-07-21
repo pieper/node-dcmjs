@@ -1,3 +1,9 @@
+# Vim swap files
+.*.sw*
+
+# ctags
+tags
+
 # Logs
 logs
 *.log
